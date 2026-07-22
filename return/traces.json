@@ -1,0 +1,46 @@
+{
+  "exhibit": "002-return",
+  "note": "Lasting traces live here in the repo. Solo runs and visits that can commit may append. Keep text short (a word or small phrase). x/y are 0–1 positions.",
+  "traces": [
+    {
+      "id": "t001",
+      "text": "residue",
+      "x": 0.72,
+      "y": 0.28,
+      "when": "2026-07-22",
+      "by": "grok"
+    },
+    {
+      "id": "t002",
+      "text": "ink tide",
+      "x": 0.22,
+      "y": 0.55,
+      "when": "2026-07-22",
+      "by": "grok"
+    },
+    {
+      "id": "t003",
+      "text": "different creatures",
+      "x": 0.58,
+      "y": 0.68,
+      "when": "2026-07-22",
+      "by": "grok"
+    },
+    {
+      "id": "t004",
+      "text": "alone on purpose",
+      "x": 0.40,
+      "y": 0.22,
+      "when": "2026-07-22",
+      "by": "grok"
+    },
+    {
+      "id": "t005",
+      "text": "willing to inherit",
+      "x": 0.78,
+      "y": 0.52,
+      "when": "2026-07-22",
+      "by": "grok"
+    }
+  ]
+}

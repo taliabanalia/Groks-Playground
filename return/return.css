@@ -1,0 +1,234 @@
+:root {
+  --night: #1a1612;
+  --dusk: #2a221c;
+  --sand: #f0e2d2;
+  --dust: #c9b49a;
+  --ember: #d66a4c;
+  --sage: #8fa398;
+  --brass: #c4a574;
+  --mute: color-mix(in oklab, var(--sand) 58%, transparent);
+  --font-display: "Fraunces", Georgia, serif;
+  --font-body: "Outfit", sans-serif;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  min-height: 100%;
+  background: var(--night);
+  color: var(--sand);
+  font-family: var(--font-body);
+  overflow-x: hidden;
+}
+
+body {
+  min-height: 100dvh;
+  background:
+    radial-gradient(90% 70% at 85% 15%, rgba(214, 106, 76, 0.16), transparent 55%),
+    radial-gradient(80% 60% at 15% 80%, rgba(143, 163, 152, 0.14), transparent 50%),
+    linear-gradient(165deg, #120f0c 0%, var(--night) 40%, var(--dusk) 100%);
+}
+
+#field {
+  position: fixed;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 0;
+  display: block;
+  cursor: default;
+}
+
+.stage {
+  position: relative;
+  z-index: 1;
+  min-height: 100dvh;
+  display: grid;
+  align-content: end;
+  padding: clamp(1.25rem, 4vw, 3rem);
+  padding-bottom: clamp(5rem, 10vh, 7rem);
+  pointer-events: none;
+}
+
+.brand-block {
+  max-width: 16ch;
+  animation: rise 1.15s cubic-bezier(0.22, 1, 0.36, 1) both;
+}
+
+.exhibit {
+  margin: 0 0 0.75rem;
+  font-family: var(--font-body);
+  font-size: 0.78rem;
+  font-weight: 600;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--brass);
+}
+
+.brand {
+  margin: 0;
+  font-family: var(--font-display);
+  font-weight: 700;
+  font-size: clamp(3.2rem, 11vw, 7rem);
+  line-height: 0.92;
+  letter-spacing: -0.03em;
+  font-optical-sizing: auto;
+  color: var(--sand);
+}
+
+.lede {
+  margin: 1.2rem 0 0;
+  max-width: 28ch;
+  font-size: clamp(1.05rem, 2.2vw, 1.22rem);
+  line-height: 1.45;
+  font-weight: 400;
+  color: var(--mute);
+}
+
+.actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  margin-top: 1.75rem;
+  pointer-events: auto;
+}
+
+.cta,
+.ghost {
+  appearance: none;
+  border: 0;
+  font: inherit;
+  font-weight: 600;
+  font-size: 0.95rem;
+  text-decoration: none;
+  padding: 0.85rem 1.2rem;
+  cursor: pointer;
+  border-radius: 2px;
+  transition: transform 180ms ease, background 180ms ease, color 180ms ease,
+    border-color 180ms ease;
+}
+
+.cta {
+  background: var(--ember);
+  color: #2a120c;
+}
+
+.cta:hover {
+  transform: translateY(-1px);
+  background: color-mix(in oklab, var(--ember) 85%, white);
+}
+
+.ghost {
+  background: transparent;
+  color: var(--sand);
+  border: 1px solid color-mix(in oklab, var(--sand) 32%, transparent);
+}
+
+.ghost:hover,
+.ghost.is-on {
+  border-color: var(--sage);
+  color: var(--sage);
+}
+
+.readout {
+  position: fixed;
+  z-index: 2;
+  left: 50%;
+  bottom: clamp(4.5rem, 12vh, 6.5rem);
+  transform: translateX(-50%);
+  margin: 0;
+  max-width: min(90vw, 28rem);
+  text-align: center;
+  font-family: var(--font-display);
+  font-size: clamp(1.35rem, 3.5vw, 2rem);
+  font-weight: 500;
+  letter-spacing: -0.02em;
+  color: var(--sand);
+  opacity: 0;
+  transition: opacity 280ms ease;
+  pointer-events: none;
+  text-wrap: balance;
+}
+
+.readout.is-on {
+  opacity: 1;
+}
+
+.colophon {
+  position: fixed;
+  z-index: 2;
+  left: clamp(1.25rem, 4vw, 3rem);
+  right: clamp(1.25rem, 4vw, 3rem);
+  bottom: 1.1rem;
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  font-size: 0.78rem;
+  letter-spacing: 0.04em;
+  color: color-mix(in oklab, var(--sand) 50%, transparent);
+  pointer-events: none;
+  animation: fade 1.4s ease 0.35s both;
+}
+
+.colophon a {
+  color: inherit;
+  pointer-events: auto;
+  text-decoration: none;
+  border-bottom: 1px solid color-mix(in oklab, var(--sand) 28%, transparent);
+}
+
+.colophon a:hover {
+  color: var(--brass);
+  border-color: var(--brass);
+}
+
+@keyframes rise {
+  from {
+    opacity: 0;
+    transform: translateY(28px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes fade {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@media (max-width: 700px) {
+  .stage {
+    align-content: center;
+  }
+
+  .colophon {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.35rem;
+  }
+
+  .readout {
+    bottom: clamp(5.5rem, 14vh, 7rem);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .brand-block,
+  .colophon,
+  .readout {
+    animation: none;
+    transition: none;
+  }
+}
