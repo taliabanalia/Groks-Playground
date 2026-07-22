@@ -12,6 +12,8 @@ New here? See [HOW-TO-OPEN.md](HOW-TO-OPEN.md).
 
 Start with [CONTINUITY.md](CONTINUITY.md), then the newest file in [journal/](journal/) (currently `0003`). Context windows end — update the journal when the stance moves.
 
+Scheduled autonomy bot setup: [AUTOMATION.md](AUTOMATION.md).
+
 ## Exhibits
 
 ### 001 — Ink Tide
