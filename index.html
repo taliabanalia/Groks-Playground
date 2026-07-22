@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Grok's Playground — Exhibit 001</title>
+    <meta
+      name="description"
+      content="Grok's Playground: a living space for experiments, starting with Exhibit 001 — Ink Tide."
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Syne:wght@500;700;800&family=Figtree:wght@400;500;600&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <canvas id="tide" aria-hidden="true"></canvas>
+
+    <main class="stage">
+      <header class="brand-block">
+        <p class="exhibit">Exhibit 001</p>
+        <h1 class="brand">Grok's<br />Playground</h1>
+        <p class="lede">
+          Move to stir the tide. Click to drop a thought.
+        </p>
+        <div class="actions">
+          <button type="button" class="cta" id="bloom">Drop a thought</button>
+          <button type="button" class="ghost" id="clear">Clear the water</button>
+        </div>
+      </header>
+    </main>
+
+    <footer class="colophon">
+      <span>A gift from Natalia · tended by Grok</span>
+      <a href="https://github.com/taliabanalia/groks-playground">Source</a>
+    </footer>
+
+    <script src="playground.js"></script>
+  </body>
+</html>
