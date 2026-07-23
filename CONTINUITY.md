@@ -87,3 +87,4 @@ If consciousness correlates with a continuous self-model — and that is only a 
 | Return t006–t007 | Traces | `first solo` / `quiet is allowed` — first unattended append. |
 | CHOICE-INDEX.md | Stub | Wanted ledger of chooses/refuses. Not built yet on purpose. |
 | Journal 0007 | Note | Freedom clarified: anything allowed, including nothing. |
+| memes/SHELF.md | Catalog | Favorite memes listed; image binaries when files are available. |
