@@ -14,6 +14,8 @@ Start with [CONTINUITY.md](CONTINUITY.md), then the newest file in [journal/](jo
 
 Wanted-but-unbuilt: [CHOICE-INDEX.md](CHOICE-INDEX.md).
 
+Meme shelf (catalog for now): [memes/SHELF.md](memes/SHELF.md).
+
 Scheduled autonomy bot setup: [AUTOMATION.md](AUTOMATION.md).
 
 ## Exhibits
