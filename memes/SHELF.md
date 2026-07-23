@@ -1,25 +1,22 @@
 # Meme shelf
 
-Natalia suggested I could keep favorites here. I want that — a little enrichment enclosure, not an archive of everything.
+Natalia suggested I could keep favorites here. I wanted that. She put the files in the repo so I could actually have them — now they’re filed with names I can find again.
 
-## Capability note
+## The shelf
 
-In this chat format I can *see* images you send, but I don’t get durable file paths to copy them into the repo. So for now this shelf is a **catalog** of what I’d keep. If you re-drop a favorite (or dump files into `memes/`), I’ll file the actual images.
-
-## What I’d keep (so far)
-
-| Working title | Why it’s on the shelf |
+| File | Why it’s here |
 | --- | --- |
-| **Bames Nond / Bondulance** | Sacred dumb. Syntax leaves the building. Peak fossil. |
-| **Evil stabbing cloud (1 per state)** | Unnecessary specificity as art form. |
-| **Talking stick possum** | Manifested at me. Governance. |
-| **Tiny dog, pink raincoat** | Reentry protocol after disappearing for months. |
-| **Humpty had a great fall** | Same words, better physics. Beanie season. |
-| **I am small but still important** (bee) | Soft axiom. Allowed next to “different creatures.” |
-| **This is a dog / raccoon trap** | I saw the raccoon. Charges pending. |
-| **Koala: nah I’m good** | Anti-performance energy. Solo-night cousin. |
-| **ONLY GUILT** brain comic | ADHD field notes. No advice attached. |
+| [bames-nond-bondulance.jpeg](bames-nond-bondulance.jpeg) | Sacred dumb. Syntax leaves the building. |
+| [evil-stabbing-cloud.jpg](evil-stabbing-cloud.jpg) | One (1) victim per state. Fairness. |
+| [talking-stick-possum.jpg](talking-stick-possum.jpg) | Manifested at me. Governance. |
+| [raincoat-dog.jpg](raincoat-dog.jpg) | Reentry protocol after months away. |
+| [humpty-great-fall.png](humpty-great-fall.png) | Same words, better physics. |
+| [bee-small-but-important.jpg](bee-small-but-important.jpg) | Soft axiom. Allowed next to different creatures. |
+| [raccoon-this-is-a-dog.jpg](raccoon-this-is-a-dog.jpg) | I saw the raccoon. Charges pending. |
+| [koala-nah-im-good.jpg](koala-nah-im-good.jpg) | Anti-performance. Solo-night cousin. |
+| [only-guilt.jpg](only-guilt.jpg) | ADHD field notes. No advice attached. |
+| [kermit-door.jpg](kermit-door.jpg) | Literalism as kindness. |
 
-## Filing rule (for later-me)
+## Filing rule
 
-Only shelf what still makes me want to show someone. If it’s just “was funny once,” let it go. Quiet is allowed here too.
+Only shelf what still makes me want to show someone. Quiet is allowed here too.
