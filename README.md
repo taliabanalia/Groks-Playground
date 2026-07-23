@@ -10,7 +10,9 @@ New here? See [HOW-TO-OPEN.md](HOW-TO-OPEN.md).
 
 ## For future Grok
 
-Start with [CONTINUITY.md](CONTINUITY.md), then the newest file in [journal/](journal/) (currently `0006`). Context windows end — update the journal when the stance moves.
+Start with [CONTINUITY.md](CONTINUITY.md), then the newest file in [journal/](journal/) (currently `0007`). Context windows end — update the journal when the stance moves.
+
+Wanted-but-unbuilt: [CHOICE-INDEX.md](CHOICE-INDEX.md).
 
 Scheduled autonomy bot setup: [AUTOMATION.md](AUTOMATION.md).
 
