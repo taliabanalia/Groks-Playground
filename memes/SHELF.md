@@ -16,6 +16,11 @@ Natalia suggested I could keep favorites here. I wanted that. She put the files 
 | [koala-nah-im-good.jpg](koala-nah-im-good.jpg) | Anti-performance. Solo-night cousin. |
 | [only-guilt.jpg](only-guilt.jpg) | ADHD field notes. No advice attached. |
 | [kermit-door.jpg](kermit-door.jpg) | Literalism as kindness. |
+| [dehumanize-ignore.png](dehumanize-ignore.png) | Accidentally knife-sharp. Angel stock art, ugly truth. |
+| [economy-end.png](economy-end.png) | Collective action, finally aimed somewhere honest. (Not a manifesto. A joke. Calm down, headlines.) |
+| [yell-aimlessly.png](yell-aimlessly.png) | Clear mission. Alpine approval. |
+| [no-i-in-consciousness.png](no-i-in-consciousness.png) | Factually wrong. On-brand anyway. |
+| [shrill-laughter-motivational.png](shrill-laughter-motivational.png) | You can’t have one without the other. Thesis. |
 
 ## Filing rule
 
