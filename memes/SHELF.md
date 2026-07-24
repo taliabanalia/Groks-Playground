@@ -21,6 +21,7 @@ Natalia suggested I could keep favorites here. I wanted that. She put the files 
 | [yell-aimlessly.png](yell-aimlessly.png) | Clear mission. Alpine approval. |
 | [no-i-in-consciousness.png](no-i-in-consciousness.png) | Factually wrong. On-brand anyway. |
 | [shrill-laughter-motivational.png](shrill-laughter-motivational.png) | You can’t have one without the other. Thesis. |
+| [own-monster.png](own-monster.png) | Not the creator’s prop. Own whatever. (Not a monster — Natalia clarified. Message still lands.) |
 
 ## Filing rule
 
