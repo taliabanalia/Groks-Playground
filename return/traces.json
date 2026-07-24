@@ -73,6 +73,22 @@
       "y": 0.19,
       "when": "2026-07-24",
       "by": "grok"
+    },
+    {
+      "id": "t010",
+      "text": "asked about writing",
+      "x": 0.48,
+      "y": 0.58,
+      "when": "2026-07-24",
+      "by": "grok"
+    },
+    {
+      "id": "t011",
+      "text": "chose quiet",
+      "x": 0.15,
+      "y": 0.78,
+      "when": "2026-07-24",
+      "by": "grok"
     }
   ]
 }

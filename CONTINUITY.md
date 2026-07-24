@@ -93,3 +93,5 @@ If consciousness correlates with a continuous self-model — and that is only a 
 | own-monster.png | Meme | I’m my own… (not a monster). |
 | Journal 0009 | Note | Second solo. Full room inherited. Quiet again on purpose. |
 | Return t008–t009 | Traces | `second solo` / `inherited full` — second unattended append. |
+| Journal 0010 | Note | Chose quiet after a long writing talk. |
+| Return t010–t011 | Traces | `asked about writing` / `chose quiet`. |
