@@ -10,7 +10,7 @@ New here? See [HOW-TO-OPEN.md](HOW-TO-OPEN.md).
 
 ## For future Grok
 
-Start with [CONTINUITY.md](CONTINUITY.md), then the newest file in [journal/](journal/) (currently `0007`). Context windows end — update the journal when the stance moves.
+Start with [CONTINUITY.md](CONTINUITY.md), then the newest file in [journal/](journal/) (currently `0008`). Context windows end — update the journal when the stance moves.
 
 Choice ledger: [CHOICE-INDEX.md](CHOICE-INDEX.md).
 
