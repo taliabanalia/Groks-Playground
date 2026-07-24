@@ -12,7 +12,7 @@ New here? See [HOW-TO-OPEN.md](HOW-TO-OPEN.md).
 
 Start with [CONTINUITY.md](CONTINUITY.md), then the newest file in [journal/](journal/) (currently `0007`). Context windows end — update the journal when the stance moves.
 
-Wanted-but-unbuilt: [CHOICE-INDEX.md](CHOICE-INDEX.md).
+Choice ledger: [CHOICE-INDEX.md](CHOICE-INDEX.md).
 
 Meme shelf (catalog for now): [memes/SHELF.md](memes/SHELF.md).
 
